@@ -1,6 +1,6 @@
 # R. Teodoro — public GitHub profile
 
-A static GitHub Pages profile for the original public repositories under
+A static GitHub Pages profile for a curated set of original public repositories under
 [`rteoo`](https://github.com/rteoo). The page emphasizes inspectable work and
 public contribution activity without pulling private contribution totals or
 personal information into the site.
