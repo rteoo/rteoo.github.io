@@ -18,66 +18,75 @@ description: Useful software for messy, specific problems.
     <div class="hero-copy">
       <p class="eyebrow">R. Teodoro · GitHub profile · Public work</p>
       <h1 id="hero-title">Public work, <em>in the open.</em></h1>
-      <p class="hero-deck">463 authored project commits across seven public project repositories—desktop tools, data libraries, extraction pipelines, and living archives.</p>
+      <p class="hero-deck">Seven public project repositories spanning desktop tools, data libraries, extraction pipelines, and living archives.</p>
       <div class="hero-actions">
         <a class="text-link" href="#work">Explore the work</a>
       </div>
     </div>
 
-    <div class="work-map" aria-label="Map of selected public projects">
-      <p class="map-label">Contribution map / 463 project commits</p>
-      <svg viewBox="0 0 700 760" role="img" aria-labelledby="map-title map-description">
-        <title id="map-title">Public work map</title>
-        <desc id="map-description">Five connected public projects spanning tools, data, voice, archives, and extraction.</desc>
-        <path class="map-line" d="M335 380 C240 315 182 229 120 150 M335 380 C450 315 526 250 590 164 M335 380 C225 438 168 532 120 630 M335 380 C444 458 500 552 580 640 M335 380 C340 285 345 210 355 105" />
-        <circle class="signal-ring" cx="335" cy="380" r="42" />
-        <circle class="signal-ring" cx="335" cy="380" r="58" />
-        <a class="map-node" href="https://github.com/rteoo/sniptype" aria-label="Sniptype public repository">
-          <circle class="map-hit" cx="335" cy="380" r="32" />
-          <circle class="map-dot" cx="335" cy="380" r="28" />
-          <text x="375" y="378">sniptype</text>
-          <text class="map-meta" x="375" y="396">voice / text</text>
-        </a>
-        <a class="map-node" href="https://github.com/rteoo/bcbpy" aria-label="bcbpy public repository">
-          <circle class="map-hit" cx="120" cy="150" r="24" />
-          <circle class="map-dot" cx="120" cy="150" r="18" />
-          <text x="146" y="147">bcbpy</text>
-          <text class="map-meta" x="146" y="164">public data</text>
-        </a>
-        <a class="map-node" href="https://github.com/rteoo/cattle-auction" aria-label="Cattle Auction public repository">
-          <circle class="map-hit" cx="590" cy="164" r="24" />
-          <circle class="map-dot" cx="590" cy="164" r="18" />
-          <text x="480" y="134">cattle-auction</text>
-          <text class="map-meta" x="514" y="151">video / OCR</text>
-        </a>
-        <a class="map-node" href="https://github.com/rteoo/rpn-calc" aria-label="RPN Calc public repository">
-          <circle class="map-hit" cx="120" cy="630" r="24" />
-          <circle class="map-dot" cx="120" cy="630" r="18" />
-          <text x="146" y="628">rpn-calc</text>
-          <text class="map-meta" x="146" y="645">desktop tool</text>
-        </a>
-        <a class="map-node" href="https://github.com/rteoo/familia-naves" aria-label="Família Naves public repository">
-          <circle class="map-hit" cx="580" cy="640" r="24" />
-          <circle class="map-dot" cx="580" cy="640" r="18" />
-          <text x="432" y="620">familia-naves</text>
-          <text class="map-meta" x="473" y="637">living archive</text>
-        </a>
-        <text x="377" y="93" fill="var(--faint)" font-family="Onest" font-size="9" letter-spacing="1.4">BUILD / TEST / RELEASE</text>
-        <circle cx="355" cy="105" r="4" fill="var(--amber)" />
-      </svg>
-    </div>
+    <figure class="contribution-ledger" aria-labelledby="ledger-title">
+      <figcaption class="ledger-header">
+        <p class="ledger-kicker">Public contribution ledger</p>
+        <h2 id="ledger-title"><span>463</span> authored project commits</h2>
+      </figcaption>
+      <ol class="ledger-list">
+        <li>
+          <a href="https://github.com/rteoo/sniptype" aria-label="sniptype — 237 authored commits — public repository">
+            <span class="ledger-row"><span class="ledger-repo">sniptype</span><span class="ledger-count">237</span></span>
+            <span class="ledger-bar" aria-hidden="true"><span class="ledger-fill" style="--share: 51.2%; --delay: 40ms"></span></span>
+          </a>
+        </li>
+        <li>
+          <a href="https://github.com/rteoo/rpn-calc" aria-label="rpn-calc — 82 authored commits — public repository">
+            <span class="ledger-row"><span class="ledger-repo">rpn-calc</span><span class="ledger-count">82</span></span>
+            <span class="ledger-bar" aria-hidden="true"><span class="ledger-fill" style="--share: 17.7%; --delay: 60ms"></span></span>
+          </a>
+        </li>
+        <li>
+          <a href="https://github.com/rteoo/cattle-auction" aria-label="cattle-auction — 75 authored commits — public repository">
+            <span class="ledger-row"><span class="ledger-repo">cattle-auction</span><span class="ledger-count">75</span></span>
+            <span class="ledger-bar" aria-hidden="true"><span class="ledger-fill" style="--share: 16.2%; --delay: 80ms"></span></span>
+          </a>
+        </li>
+        <li>
+          <a href="https://github.com/rteoo/bcbpy" aria-label="bcbpy — 32 authored commits — public repository">
+            <span class="ledger-row"><span class="ledger-repo">bcbpy</span><span class="ledger-count">32</span></span>
+            <span class="ledger-bar" aria-hidden="true"><span class="ledger-fill" style="--share: 6.9%; --delay: 100ms"></span></span>
+          </a>
+        </li>
+        <li>
+          <a href="https://github.com/rteoo/novtek-site" aria-label="novtek-site — 23 authored commits — public repository">
+            <span class="ledger-row"><span class="ledger-repo">novtek-site</span><span class="ledger-count">23</span></span>
+            <span class="ledger-bar" aria-hidden="true"><span class="ledger-fill" style="--share: 5%; --delay: 120ms"></span></span>
+          </a>
+        </li>
+        <li>
+          <a href="https://github.com/rteoo/familia-naves" aria-label="familia-naves — 12 authored commits — public repository">
+            <span class="ledger-row"><span class="ledger-repo">familia-naves</span><span class="ledger-count">12</span></span>
+            <span class="ledger-bar" aria-hidden="true"><span class="ledger-fill" style="--share: 2.6%; --delay: 140ms"></span></span>
+          </a>
+        </li>
+        <li>
+          <a href="https://github.com/rteoo/PoC-parcelamento" aria-label="PoC-parcelamento — 2 authored commits — public repository">
+            <span class="ledger-row"><span class="ledger-repo">PoC-parcelamento</span><span class="ledger-count">2</span></span>
+            <span class="ledger-bar" aria-hidden="true"><span class="ledger-fill" style="--share: 0.4%; --delay: 160ms"></span></span>
+          </a>
+        </li>
+      </ol>
+      <p class="ledger-note">Public default branches · snapshot 01 Sep 2026</p>
+    </figure>
   </section>
 
   <section class="contribution-section" aria-labelledby="contribution-title">
     <div class="contribution-copy reveal">
       <p class="eyebrow">Public snapshot · 01 Sep 2026</p>
-      <h2 id="contribution-title"><span>463</span> authored commits on public project default branches.</h2>
-      <p>Counted from GitHub’s public contributor lists. The profile repository, private repositories, and private contribution totals are intentionally excluded.</p>
+      <h2 id="contribution-title"><span>08</span> original public repositories.</h2>
+      <p>Seven project codebases plus the source for this profile. Statistics come from public contributor lists; non-public totals are intentionally excluded.</p>
     </div>
     <dl class="contribution-stats reveal">
       <div>
-        <dt>Original public repositories</dt>
-        <dd>08</dd>
+        <dt>Authored project commits</dt>
+        <dd>463</dd>
       </div>
       <div>
         <dt>Python projects</dt>
