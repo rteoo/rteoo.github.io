@@ -30,30 +30,35 @@ description: Useful software for messy, specific problems.
         <title id="map-title">Public work map</title>
         <desc id="map-description">Five connected public projects spanning tools, data, voice, archives, and extraction.</desc>
         <path class="map-line" d="M335 380 C240 315 182 229 120 150 M335 380 C450 315 526 250 590 164 M335 380 C225 438 168 532 120 630 M335 380 C444 458 500 552 580 640 M335 380 C340 285 345 210 355 105" />
+        <circle class="signal-ring" cx="335" cy="380" r="42" />
         <circle class="signal-ring" cx="335" cy="380" r="58" />
-        <circle class="signal-ring" cx="335" cy="380" r="58" style="animation-delay: 1.4s" />
         <a class="map-node" href="https://github.com/rteoo/sniptype" aria-label="Sniptype public repository">
-          <circle cx="335" cy="380" r="28" />
+          <circle class="map-hit" cx="335" cy="380" r="32" />
+          <circle class="map-dot" cx="335" cy="380" r="28" />
           <text x="375" y="378">sniptype</text>
           <text class="map-meta" x="375" y="396">voice / text</text>
         </a>
         <a class="map-node" href="https://github.com/rteoo/bcbpy" aria-label="bcbpy public repository">
-          <circle cx="120" cy="150" r="18" />
+          <circle class="map-hit" cx="120" cy="150" r="24" />
+          <circle class="map-dot" cx="120" cy="150" r="18" />
           <text x="146" y="147">bcbpy</text>
           <text class="map-meta" x="146" y="164">public data</text>
         </a>
         <a class="map-node" href="https://github.com/rteoo/cattle-auction" aria-label="Cattle Auction public repository">
-          <circle cx="590" cy="164" r="18" />
+          <circle class="map-hit" cx="590" cy="164" r="24" />
+          <circle class="map-dot" cx="590" cy="164" r="18" />
           <text x="480" y="134">cattle-auction</text>
           <text class="map-meta" x="514" y="151">video / OCR</text>
         </a>
         <a class="map-node" href="https://github.com/rteoo/rpn-calc" aria-label="RPN Calc public repository">
-          <circle cx="120" cy="630" r="18" />
+          <circle class="map-hit" cx="120" cy="630" r="24" />
+          <circle class="map-dot" cx="120" cy="630" r="18" />
           <text x="146" y="628">rpn-calc</text>
           <text class="map-meta" x="146" y="645">desktop tool</text>
         </a>
         <a class="map-node" href="https://github.com/rteoo/familia-naves" aria-label="Família Naves public repository">
-          <circle cx="580" cy="640" r="18" />
+          <circle class="map-hit" cx="580" cy="640" r="24" />
+          <circle class="map-dot" cx="580" cy="640" r="18" />
           <text x="432" y="620">familia-naves</text>
           <text class="map-meta" x="473" y="637">living archive</text>
         </a>

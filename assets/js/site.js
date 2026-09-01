@@ -1,16 +1,3 @@
-const workMap = document.querySelector(".work-map");
-
-if (workMap && window.matchMedia("(pointer: fine)").matches) {
-  workMap.addEventListener("pointermove", (event) => {
-    const bounds = workMap.getBoundingClientRect();
-    const x = ((event.clientX - bounds.left) / bounds.width) * 100;
-    const y = ((event.clientY - bounds.top) / bounds.height) * 100;
-
-    workMap.style.setProperty("--signal-x", `${x}%`);
-    workMap.style.setProperty("--signal-y", `${y}%`);
-  });
-}
-
 const reveals = document.querySelectorAll(".reveal");
 
 if ("IntersectionObserver" in window) {
