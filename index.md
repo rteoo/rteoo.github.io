@@ -18,7 +18,7 @@ description: Useful software for messy, specific problems.
     <div class="hero-copy">
       <p class="eyebrow">R. Teodoro · GitHub profile · Public work</p>
       <h1 id="hero-title">Public work, <em>in the open.</em></h1>
-      <p class="hero-deck">Seven public project repositories spanning desktop tools, data libraries, extraction pipelines, and living archives.</p>
+      <p class="hero-deck">Five public project repositories spanning desktop tools, data libraries, extraction pipelines, and focused experiments.</p>
       <div class="hero-actions">
         <a class="text-link" href="#work">Explore the work</a>
       </div>
@@ -27,49 +27,37 @@ description: Useful software for messy, specific problems.
     <figure class="contribution-ledger" aria-labelledby="ledger-title">
       <figcaption class="ledger-header">
         <p class="ledger-kicker">Public contribution ledger</p>
-        <h2 id="ledger-title"><span>463</span> authored project commits</h2>
+        <h2 id="ledger-title"><span>428</span> authored project commits</h2>
       </figcaption>
       <ol class="ledger-list">
         <li>
           <a href="https://github.com/rteoo/sniptype" aria-label="sniptype — 237 authored commits — public repository">
             <span class="ledger-row"><span class="ledger-repo">sniptype</span><span class="ledger-count">237</span></span>
-            <span class="ledger-bar" aria-hidden="true"><span class="ledger-fill" style="--share: 51.2%; --delay: 40ms"></span></span>
+            <span class="ledger-bar" aria-hidden="true"><span class="ledger-fill" style="--share: 55.37%; --delay: 40ms"></span></span>
           </a>
         </li>
         <li>
           <a href="https://github.com/rteoo/rpn-calc" aria-label="rpn-calc — 82 authored commits — public repository">
             <span class="ledger-row"><span class="ledger-repo">rpn-calc</span><span class="ledger-count">82</span></span>
-            <span class="ledger-bar" aria-hidden="true"><span class="ledger-fill" style="--share: 17.7%; --delay: 60ms"></span></span>
+            <span class="ledger-bar" aria-hidden="true"><span class="ledger-fill" style="--share: 19.16%; --delay: 60ms"></span></span>
           </a>
         </li>
         <li>
           <a href="https://github.com/rteoo/cattle-auction" aria-label="cattle-auction — 75 authored commits — public repository">
             <span class="ledger-row"><span class="ledger-repo">cattle-auction</span><span class="ledger-count">75</span></span>
-            <span class="ledger-bar" aria-hidden="true"><span class="ledger-fill" style="--share: 16.2%; --delay: 80ms"></span></span>
+            <span class="ledger-bar" aria-hidden="true"><span class="ledger-fill" style="--share: 17.52%; --delay: 80ms"></span></span>
           </a>
         </li>
         <li>
           <a href="https://github.com/rteoo/bcbpy" aria-label="bcbpy — 32 authored commits — public repository">
             <span class="ledger-row"><span class="ledger-repo">bcbpy</span><span class="ledger-count">32</span></span>
-            <span class="ledger-bar" aria-hidden="true"><span class="ledger-fill" style="--share: 6.9%; --delay: 100ms"></span></span>
-          </a>
-        </li>
-        <li>
-          <a href="https://github.com/rteoo/novtek-site" aria-label="novtek-site — 23 authored commits — public repository">
-            <span class="ledger-row"><span class="ledger-repo">novtek-site</span><span class="ledger-count">23</span></span>
-            <span class="ledger-bar" aria-hidden="true"><span class="ledger-fill" style="--share: 5%; --delay: 120ms"></span></span>
-          </a>
-        </li>
-        <li>
-          <a href="https://github.com/rteoo/familia-naves" aria-label="familia-naves — 12 authored commits — public repository">
-            <span class="ledger-row"><span class="ledger-repo">familia-naves</span><span class="ledger-count">12</span></span>
-            <span class="ledger-bar" aria-hidden="true"><span class="ledger-fill" style="--share: 2.6%; --delay: 140ms"></span></span>
+            <span class="ledger-bar" aria-hidden="true"><span class="ledger-fill" style="--share: 7.48%; --delay: 100ms"></span></span>
           </a>
         </li>
         <li>
           <a href="https://github.com/rteoo/PoC-parcelamento" aria-label="PoC-parcelamento — 2 authored commits — public repository">
             <span class="ledger-row"><span class="ledger-repo">PoC-parcelamento</span><span class="ledger-count">2</span></span>
-            <span class="ledger-bar" aria-hidden="true"><span class="ledger-fill" style="--share: 0.4%; --delay: 160ms"></span></span>
+            <span class="ledger-bar" aria-hidden="true"><span class="ledger-fill" style="--share: 0.47%; --delay: 120ms"></span></span>
           </a>
         </li>
       </ol>
@@ -80,13 +68,13 @@ description: Useful software for messy, specific problems.
   <section class="contribution-section" aria-labelledby="contribution-title">
     <div class="contribution-copy reveal">
       <p class="eyebrow">Public snapshot · 01 Sep 2026</p>
-      <h2 id="contribution-title"><span>08</span> original public repositories.</h2>
-      <p>Seven project codebases plus the source for this profile. Statistics come from public contributor lists; non-public totals are intentionally excluded.</p>
+      <h2 id="contribution-title"><span>06</span> selected public repositories.</h2>
+      <p>Five project codebases plus the source for this profile. Statistics come from public contributor lists; non-public totals are intentionally excluded.</p>
     </div>
     <dl class="contribution-stats reveal">
       <div>
         <dt>Authored project commits</dt>
-        <dd>463</dd>
+        <dd>428</dd>
       </div>
       <div>
         <dt>Python projects</dt>
@@ -102,7 +90,7 @@ description: Useful software for messy, specific problems.
   <section class="section" id="work" aria-labelledby="work-title">
     <div class="section-heading reveal">
       <span class="section-number">01 / Public repositories</span>
-      <h2 id="work-title">Every original public project.</h2>
+      <h2 id="work-title">Selected original public projects.</h2>
     </div>
 
     <div class="project-list">
@@ -134,29 +122,15 @@ description: Useful software for messy, specific problems.
         <span class="project-stat"><strong>32</strong> commits</span>
         <span class="project-arrow" aria-hidden="true">↗</span>
       </a>
-      <a class="project reveal" href="https://github.com/rteoo/novtek-site">
-        <span class="project-index">05</span>
-        <span class="project-name">novtek-site</span>
-        <span class="project-description">The public source for Novtek’s website.</span>
-        <span class="project-stat"><strong>23</strong> commits</span>
-        <span class="project-arrow" aria-hidden="true">↗</span>
-      </a>
-      <a class="project reveal" href="https://github.com/rteoo/familia-naves">
-        <span class="project-index">06</span>
-        <span class="project-name">Família Naves</span>
-        <span class="project-description">Eleven generations of family history organized as an explorable living archive.</span>
-        <span class="project-stat"><strong>12</strong> commits</span>
-        <span class="project-arrow" aria-hidden="true">↗</span>
-      </a>
       <a class="project reveal" href="https://github.com/rteoo/github.io">
-        <span class="project-index">07</span>
+        <span class="project-index">05</span>
         <span class="project-name">github.io</span>
         <span class="project-description">The source for this public project profile.</span>
         <span class="project-stat">profile source</span>
         <span class="project-arrow" aria-hidden="true">↗</span>
       </a>
       <a class="project reveal" href="https://github.com/rteoo/PoC-parcelamento">
-        <span class="project-index">08</span>
+        <span class="project-index">06</span>
         <span class="project-name">PoC-parcelamento</span>
         <span class="project-description">A proof of concept for installment calculations.</span>
         <span class="project-stat"><strong>02</strong> commits</span>
